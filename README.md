@@ -1,0 +1,1 @@
+This is a basic HTTP/LAN server starting Python script.
